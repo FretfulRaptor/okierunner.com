@@ -1,7 +1,6 @@
 ---
 title: "Introduction"
 date: 2018-11-02T12:46:04-05:00
-draft: true
 ---
 Hi! I'm Seth. I turn 30 years old at the end of this year and I set a fitness goal to get back into shape after a couple lazy years.
 
