@@ -1,4 +1,4 @@
-baseURL = "https://okierunner.com/"
+baseURL = "https://www.okierunner.com/"
 languageCode = "en-us"
 title = "OkieRunner"
 theme = "ananke"
